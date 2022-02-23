@@ -33,7 +33,7 @@ font-family: 'Roboto Serif', sans-serif;
 .first-half{
     margin: 20px 35px 35px 20px;
     padding: 7px;
-    border: 2px solid gray;
+    border: 2px solid whitesmoke;
     border-radius: 5px;
     width: 300px;
     
@@ -86,5 +86,5 @@ font-family: 'Roboto Serif', sans-serif;
     width: 100%;
     height:100px;
     background-size: auto;
+    padding-top: 20px;
 }
-
