@@ -66,6 +66,8 @@ font-family: 'Roboto Serif', sans-serif;
 .extra{
     display:flex;
     border: 5px solid white;
+    margin-top: 1px;;
+    
     
 }
 .contact-info {
