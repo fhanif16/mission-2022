@@ -24,6 +24,7 @@ font-family: 'Roboto Serif', sans-serif;
     background-color: red;
     border: 2px solid red;
     border-radius: 1px;
+    padding: 5px;
 }
 .mission{
     display: flex;
