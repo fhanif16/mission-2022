@@ -14,7 +14,7 @@ font-family: 'Roboto Serif', sans-serif;
 }
 .half-width {
     width: 50%;
-    margin : 25px 20px 15px 20px;
+    margin : 25px 20px 20px 20px;
     padding: 2%;
     padding-top: 3%;
 }
@@ -40,5 +40,40 @@ font-family: 'Roboto Serif', sans-serif;
 .size img{
     width: 100px;
     
+}
+.background{
+    background-image: url("images/shapes/shape-2.png");
+    background-position: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.contact{
+   
+        float: left;
+        width: 30%;
+        height: 200px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+        padding: 20px;
+        
+        
+        
+    
+}
+
+.extra{
+    display:flex;
+    border: 5px solid sandybrown;
+}
+.contact-info {
+    width: 50%;
+    margin : 25px 20px 20px 20px;
+    padding: 2%;
+    padding-top: 3%;
+  
+}
+.contact-info img {
+    width:50%;
+
 }
 
